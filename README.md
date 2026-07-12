@@ -22,3 +22,10 @@ The analysis enables comparisons between weekdays and peak operating hours, help
 - Power Query
 - DAX
 - Excel
+## Dashboard Preview
+
+### Page 1
+![Dashboard Page 1](Screenshot 2026-06-28 085252.png)
+
+### Page 2
+![Dashboard Page 2](Screenshot 2026-06-28 085454.png)
