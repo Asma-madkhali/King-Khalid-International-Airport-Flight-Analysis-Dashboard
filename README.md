@@ -25,7 +25,7 @@ The analysis enables comparisons between weekdays and peak operating hours, help
 ## Dashboard Preview
 
 ### Page 1
-![Dashboard Page 1](Screenshot 2026-06-28 085252.png)
+![Dashboard 1](Screenshot%202026-06-28%20085252.png)
 
 ### Page 2
-![Dashboard Page 2](Screenshot 2026-06-28 085454.png)
+![Dashboard 2](Screenshot%202026-06-28%20085454.png)
